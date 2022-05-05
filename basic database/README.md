@@ -21,7 +21,7 @@ CREATE TABLE student (
 );
 ```
 
-<h2> Basic operations
+#<h2> Basic operations
 
 Deleting Table
 ```sql
@@ -55,7 +55,7 @@ Select specific data + order
 ```sql
 SELECT student.first_name, student.major
 FROM student
-ORDER BY first_name
+ORDER BY first_name ASC
 ```
 Update data
 ```sql

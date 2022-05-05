@@ -3,7 +3,7 @@
 <h1>Creating a table</h1>
 
 | student_id|name|major | gpa  |
-| :---: | :---: | :---: | 4.49 |
+| :---: | :---: | :---: | :---:|
 | 1 | Jack  | Biology   | 3.37 |
 | 2 | Kate  | Sociology | 3.76 |
 | 3 | Claire| English   | 4.21 |
@@ -22,6 +22,7 @@ CREATE TABLE student (
 ```
 
 <h2> Basic operations
+
 Deleting Table
 ```
 DROP TABLE student;

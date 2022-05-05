@@ -1,6 +1,4 @@
-#SQL database
-
-All the code snippets from <a href="test.sql">sql</a> file
+# All the code snippets from <a href="test.sql">sql</a> file
 
 <h1>Creating a table</h1>
 

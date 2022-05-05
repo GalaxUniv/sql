@@ -21,7 +21,7 @@ CREATE TABLE student (
 );
 ```
 
-<h2> Basic operations
+<h2> Basic operations</h2>
 
 Deleting Table
 ```sql

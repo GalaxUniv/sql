@@ -5,7 +5,7 @@ Code {
 
 }
 
-<img src="SQL/Bigger database/company-database.pdf"></img>
+<img src="Assets/company-database.pdf"></img>
 
 
 <h2> More complex oprations on database</h2>

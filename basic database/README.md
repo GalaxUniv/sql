@@ -1,7 +1,7 @@
 #SQL database
 
 <h1>Creating a table</h1>
-<img src="SQL/Basic Database/Student.png"></img>
+<img src="Assets/Student.png"></img>
 Code
 {
 

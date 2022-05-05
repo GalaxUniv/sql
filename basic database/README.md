@@ -11,7 +11,7 @@
 | 5 | Mike  | Comp.Sci  | 3.43 |
 
 Code
-```
+```sql
 CREATE TABLE student (
     student_id INT AUTO_INCREMENT,
     first_name VARCHAR(32) NOT NULL,
@@ -24,41 +24,41 @@ CREATE TABLE student (
 <h2> Basic operations
 
 Deleting Table
-```
+```sql
 DROP TABLE student;
 ```
 Adding colums 
-```
+```sql
 ALTER TABLE student ADD faculty VARCHAR(20);
 ```
 Removing Columns 
-```
+```sql
 ALTER TABLE student DROP COLUMN faculty;
 ```
 Add data
-```
+```sql
 INSERT INTO student(first_name, major, gpa) VALUES('Jack', 'Biology', 3.37);
 ```
 Remove Data
-```
+```sql
 DELETE FROM student WHERE student_id=3;
 ```
 Delete all data from table
-```
+```sql
 DELETE FROM student;
 ```
 Show Data
-```
+```sql
 SELECT * FROM student;
 ```
 Select specific data + order
-```
+```sql
 SELECT student.first_name, student.major
 FROM student
 ORDER BY first_name
 ```
 Update data
-```
+```sql
 UPDATE student
 SET major = 'Bio'
 WHERE major = 'Biology';

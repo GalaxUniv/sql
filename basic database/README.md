@@ -2,6 +2,11 @@
 
 <h1>Creating a table</h1>
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 |student_id|name|major|
 |:---:|:---:|:---:|:---:|
 |1|Jack|Biology|

@@ -1,6 +1,6 @@
 # Queries on bigger and more complex database
 
-Creating the database <a href="Database/build.sql">code</a>
+Creating the database <a href="build.sql">code</a>
 
 <img src="Assets/company-database-1.png" width="auto" height="500" ></img>
 

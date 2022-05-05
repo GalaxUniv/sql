@@ -2,18 +2,14 @@
 
 <h1>Creating a table</h1>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| student_id|name|major |
+| :---: | :---: | :---: |
+| 1 | Jack  | Biology   |
+| 2 | Kate  | Sociology |
+| 3 | Claire| English   |
+| 4 | Jack  | Biology   |
+| 5 | Mike  | Comp.Sci  |
 
-|student_id|name|major|
-|:---:|:---:|:---:|:---:|
-|1|Jack|Biology|
-|2|Kate|Sociology|
-|3|Claire|English|
-|4|Jack|Biology|
-|5|Mike|Comp.Sci|
 Code
 {
 

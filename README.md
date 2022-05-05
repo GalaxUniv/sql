@@ -1,5 +1,6 @@
 # sql
-sql test
+
+<h1>Basic Database folder content</h1> 
 
 Basic operations
 
@@ -22,8 +23,8 @@ Select specific data + order
 Update data
 
 <. > , <=, >=, <>(!=), =, AND, OR
-
-
+<h2>Bigger Database folder content</h1> 
+----
 Fuctions
 
 Wildcards

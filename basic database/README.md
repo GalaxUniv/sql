@@ -1,7 +1,13 @@
 #SQL database
 
 <h1>Creating a table</h1>
-<img src="Assets/Student.png"></img>
+
+|student_id|name|major|
+|1|Jack|Biology|
+|2|Kate|Sociology|
+|3|Claire|English|
+|4|Jack|Biology|
+|5|Mike|Comp.Sci|
 Code
 {
 

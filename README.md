@@ -18,7 +18,7 @@ Remove Data
 Show Data
 
 Select specific data + order
----
+
 Update data
 
 <. > , <=, >=, <>(!=), =, AND, OR

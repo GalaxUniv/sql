@@ -45,7 +45,7 @@ DELETE FROM student WHERE student_id=3;
 ```
 Delete all data from table
 ```sql
-DELETE FROM student;
+DELETE * FROM student;
 ```
 Show Data
 ```sql
